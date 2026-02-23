@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Santy Martínez
 
-<!--
-**SantyMartinezPUJ/SantyMartinezPUJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante universitario  
+💻 Me interesa el desarrollo de software, especialmente el desarrollo web y backend  
+🚀 Actualmente trabajando en proyectos académicos y fortaleciendo mis habilidades en programación  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que uso
+- Java  
+- JavaScript  
+- HTML / CSS  
+- SQL  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Qué encontrarás en mi GitHub
+- Proyectos de la universidad  
+- Talleres y prácticas de programación  
+- Ejercicios de bases de datos y desarrollo web  
+- Experimentos y pruebas para aprender nuevas tecnologías  
+
+## 🎯 Objetivo
+Seguir aprendiendo, mejorar como desarrollador y construir proyectos cada vez más completos y de mejor calidad.
+
+---
+
+⭐ Siempre buscando mejorar y aprender algo nuevo.
