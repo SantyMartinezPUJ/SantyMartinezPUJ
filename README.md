@@ -1,6 +1,6 @@
-# 👋 Hola, soy Santy Martínez
+# 👋 Hola, soy Santiago Martínez
 
-🎓 Estudiante universitario  
+🎓 Estudiante universitario de la Pontifica universidad javeriana 
 💻 Me interesa el desarrollo de software, especialmente el desarrollo web y backend  
 🚀 Actualmente trabajando en proyectos académicos y fortaleciendo mis habilidades en programación  
 
